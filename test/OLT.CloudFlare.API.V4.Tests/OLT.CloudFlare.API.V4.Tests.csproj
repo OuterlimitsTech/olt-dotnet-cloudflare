@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\OLT.CloudFlare.API.V4\OLT.CloudFlare.API.V4.csproj" />
+  </ItemGroup>
+
 </Project>
